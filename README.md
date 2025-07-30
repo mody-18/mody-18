@@ -64,7 +64,8 @@
 - 🌍 Based in Leicester, England
 - 📧 Email: modestas.riabovas2@gmail.com
 - 💼 Portfolio Website: https://mody-18.github.io/
-
+<br>
+<br>
 <!-- 3D Tech Stack Section with animated rotating icons -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Skills">
