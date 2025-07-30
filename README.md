@@ -63,7 +63,7 @@
 - 🎓 Final Year Student graduating with a expected 1st
 - 🌍 Based in Leicester, England
 - 📧 Email: modestas.riabovas2@gmail.com
-- 💼 <a href="https://mody-18.github.io/" target="_blank">Portfolio Website</a>
+- 💼 <a href="https://mody-18.github.io/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
 <br>
 <br>
 <!-- 3D Tech Stack Section with animated rotating icons -->
