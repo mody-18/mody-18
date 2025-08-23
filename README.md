@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/modestasria/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=20" alt="Instagram" />
   </a>
-  <a href="mailto:modestas.riabovas2@gmail.com" target="_blank">
+  <a href="mailto:mody.riabovas2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&logoWidth=20" alt="Gmail" />
 </div>
 
@@ -62,7 +62,7 @@
 - 👨‍💻 Software Engineer specializing in Node js and Express
 - 🎓 Final Year Student graduating with a expected 1st
 - 🌍 Based in Leicester, England
-- 📧 Email: modestas.riabovas2@gmail.com
+- 📧 Email: mody.riabovas2@gmail.com
 - 💼 <a href="https://mody-18.github.io/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
 <br>
 <br>
